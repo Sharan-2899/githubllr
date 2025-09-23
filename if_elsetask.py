@@ -14,4 +14,4 @@ elif look=="green":
 else:
     print("************************************************************")
     print("Watch carefully ! your'e not paying attention to the signal!")  
-    print("************************************************************")  
+    print("************************************************************") # i made few comments for better understanding..
