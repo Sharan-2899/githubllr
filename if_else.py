@@ -110,3 +110,14 @@ else:
     print("Watch carefully ! your'e not paying attention to the signal!")  
     print("************************************************************")  
 
+# question 9
+# Advanced Trick: Replace if-else using Functions
+def even():
+    return "Even"
+
+def odd():
+    return "Odd"
+
+num = 5
+result = even() if num % 2 == 0 else odd()
+print(result)
